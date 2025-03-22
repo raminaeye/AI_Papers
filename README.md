@@ -1,3 +1,7 @@
+# What are you reading? 
+
+These are some of the papers I've been reading and listening to (via NotebookLM). I included a small snippet of these papers that I summarized via LLMs here.
+
 # Open-Set Sound Event Classification using Self-Supervised Learning
 
  Analogy: Imagine a security system that not only recognizes faces it already knows but also flags an unfamiliar face as “unknown”—this paper does that with sounds.
